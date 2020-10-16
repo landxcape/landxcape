@@ -32,7 +32,7 @@ Currently improving my Python skills: Django.
 
 ****
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landxcape&theme=radical&hide=html&exclude_repo=rgb,dmd2-libraries,dmd2-learning,dmd2-animation_pt2,web-scrap,django-learn-2020,landxcape,landxcape.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landxcape&theme=radical&hide=html&exclude_repo=django-learn-2020,dmd2-animation_pt2,landxcape,landxcape.github.io)
 
 ****
 
