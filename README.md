@@ -1,8 +1,7 @@
 # Hi there, I'm Purna Kalyan Shakya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### 🌱 I’m currently learning  👨‍💻:
-Currently improving my Python skills.
-Learning Django Framework.
+Currently improving my Python skills: Django.
 
 ****
 
@@ -27,7 +26,9 @@ Learning Django Framework.
 ****
 
 ### Find me elsewhere :milky_way::
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purnashakya-0e76a8?style=flat-square&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/purnashakya/)](https://www.linkedin.com/in/purnashakya/)  
+[![Linkedin Badge](https://img.shields.io/badge/Facebook-landxcape09-3b5998?style=flat-square&logo=Facebook&logoColor=3b5998&link=https://www.linkedin.com/in/purnashakya/)](https://www.facebook.com/landxcape09)  
+[![Linkedin Badge](https://img.shields.io/badge/Instagram-landxcape09-red?style=flat-square&logo=Instagram&logoColor=red&link=https://www.linkedin.com/in/purnashakya/)](https://www.instagram.com/landxcape09/)
 
 <br />
 
