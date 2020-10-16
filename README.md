@@ -26,15 +26,11 @@ Currently improving my Python skills: Django.
 ****
 
 ### Find me elsewhere :milky_way::
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purnashakya-0e76a8?style=flat-square&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/purnashakya/)](https://www.linkedin.com/in/purnashakya/)  
-[![Linkedin Badge](https://img.shields.io/badge/Facebook-landxcape09-3b5998?style=flat-square&logo=Facebook&logoColor=3b5998&link=https://www.linkedin.com/in/purnashakya/)](https://www.facebook.com/landxcape09)  
-[![Linkedin Badge](https://img.shields.io/badge/Instagram-landxcape09-red?style=flat-square&logo=Instagram&logoColor=red&link=https://www.linkedin.com/in/purnashakya/)](https://www.instagram.com/landxcape09/)
-
-<br />
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purnashakya-0e76a8?style=flat-square&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/purnashakya/)](https://www.linkedin.com/in/purnashakya/)  [![Linkedin Badge](https://img.shields.io/badge/Facebook-landxcape09-3b5998?style=flat-square&logo=Facebook&logoColor=3b5998&link=https://www.linkedin.com/in/purnashakya/)](https://www.facebook.com/landxcape09)  [![Linkedin Badge](https://img.shields.io/badge/Instagram-landxcape09-red?style=flat-square&logo=Instagram&logoColor=red&link=https://www.linkedin.com/in/purnashakya/)](https://www.instagram.com/landxcape09/)
 
 ****
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landxcape&theme=radical&exclude_repo=rgb,dmd2-libraries,dmd2-learning,dmd2-animation_pt2,web-scrap,django-learn-2020)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landxcape&theme=radical&hide=html&exclude_repo=rgb,dmd2-libraries,dmd2-learning,dmd2-animation_pt2,web-scrap,django-learn-2020)
 
 ****
 
