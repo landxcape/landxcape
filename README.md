@@ -32,7 +32,8 @@ Currently improving my Python skills: Django.
 
 ### Find me elsewhere :milky_way::
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purnashakya-0e76a8?style=flat-square&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/purnashakya/)](https://www.linkedin.com/in/purnashakya/)  [![Linkedin Badge](https://img.shields.io/badge/Facebook-landxcape09-3b5998?style=flat-square&logo=Facebook&logoColor=3b5998&link=https://www.linkedin.com/in/purnashakya/)](https://www.facebook.com/landxcape09)  [![Linkedin Badge](https://img.shields.io/badge/Instagram-landxcape09-red?style=flat-square&logo=Instagram&logoColor=red&link=https://www.linkedin.com/in/purnashakya/)](https://www.instagram.com/landxcape09/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purnashakya-0e76a8?style=flat-square&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/purnashakya/)](https://www.linkedin.com/in/purnashakya/)  [![Facebook Badge](https://img.shields.io/badge/Facebook-landxcape09-3b5998?style=flat-square&logo=Facebook&logoColor=3b5998&link=https://www.linkedin.com/in/purnashakya/)](https://www.facebook.com/landxcape09)  [![Instagram Badge](https://img.shields.io/badge/Instagram-landxcape09-red?style=flat-square&logo=Instagram&logoColor=red&link=https://www.linkedin.com/in/purnashakya/)](https://www.instagram.com/landxcape09/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-landxcape09@gmail.com-red?style=flat-square&logo=Gmail&logoColor=red&link=mailto:landxcape09@gmail.com)](mailto:landxcape09@gmail.com)
 
 ****
 
