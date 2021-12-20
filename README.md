@@ -36,10 +36,10 @@ Currently improving my Python skills: Django.
 
 ****
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landxcape&theme=radical&hide=html&exclude_repo=dmd2-animation_pt2,landxcape.github.io,landxcape,django-learn-2020)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landxcape&count_private=true&theme=radical&hide=html&exclude_repo=dmd2-animation_pt2,landxcape.github.io,landxcape,django-learn-2020)
 
 ****
 
-![Purna's github stats](https://github-readme-stats.vercel.app/api?username=landxcape&show_icons=true&theme=radical&exclude_repo=landxcape&hide=contribs)
+![Purna's github stats](https://github-readme-stats.vercel.app/api?username=landxcape&show_icons=true&theme=radical&exclude_repo=landxcape&hide=contribs&count_private=true)
 
 ****
