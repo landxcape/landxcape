@@ -19,7 +19,7 @@ Currently improving my ReactJs Skills.
 <br />
 <br/ >
 
-### Tools :computer
+### Tools :computer:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -32,7 +32,7 @@ Currently improving my ReactJs Skills.
 
 ****
 
-### Find me elsewhere :milky_way
+### Find me elsewhere :milky_way:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purnashakya-0e76a8?style=flat-square&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/purnashakya/)](https://www.linkedin.com/in/purnashakya/)  [![Facebook Badge](https://img.shields.io/badge/Facebook-landxcape09-3b5998?style=flat-square&logo=Facebook&logoColor=3b5998&link=https://www.facebook.com/landxcape09)](https://www.facebook.com/landxcape09)  [![Instagram Badge](https://img.shields.io/badge/Instagram-landxcape09-red?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/landxcape09/)](https://www.instagram.com/landxcape09/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-landxcape09@gmail.com-BB001B?style=flat-square&logo=Gmail&logoColor=BB001B&link=mailto:landxcape09@gmail.com)](mailto:landxcape09@gmail.com)
 
