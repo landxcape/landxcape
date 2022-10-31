@@ -2,7 +2,7 @@
 
 ### 🌱 I’m learning  👨‍💻
 
-Currently improving my ReactJs Skills.
+Currently improving my Flutter Skills.
 
 ****
 
