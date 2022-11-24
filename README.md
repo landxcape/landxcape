@@ -2,7 +2,7 @@
 
 ### 🌱 I’m learning  👨‍💻
 
-Currently improving my Flutter Skills.
+Currently focusing on Flutter.
 
 ****
 
