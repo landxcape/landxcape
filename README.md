@@ -1,6 +1,6 @@
 ## Hi there, I'm Purna Kalyan Shakya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### 🌱 I’m always learning, trying to expand the knowledge  👨‍💻
+### 🌱 Always learning, trying to expand my knowledge  👨‍💻
 
 Focusing on Mobile App Development with Flutter.
 
