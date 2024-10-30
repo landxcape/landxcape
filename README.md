@@ -37,7 +37,7 @@ Currently focusing on Mobile App Development with Flutter.
 
 ****
 
-![Top Langs](https://github-readme-stats-three-gray-71.vercel.app/api/top-langs/?username=landxcape&count_private=true&theme=radical&hide=html&exclude_repo=dmd2-animation_pt2,landxcape.github.io,landxcape,django-learn-2020)
+![Top Langs](https://github-readme-stats-three-gray-71.vercel.app/api/top-langs/?username=landxcape&theme=radical&hide=html&exclude_repo=dmd2-animation_pt2,landxcape.github.io,landxcape,django-learn-2020)
 
 ****
 
