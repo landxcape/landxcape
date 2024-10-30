@@ -37,10 +37,10 @@ Currently focusing on Mobile App Development with Flutter.
 
 ****
 
-![Top Langs](https://github-readme-stats-three-gray-71.vercel.app/api/top-langs/?username=landxcape&theme=radical&hide=html&exclude_repo=dmd2-animation_pt2,landxcape.github.io,landxcape,django-learn-2020)
+![Top Langs](https://github-readme-stats-git-master-landxcapes-projects.vercel.app/api/top-langs/?username=landxcape&theme=radical&hide=html&exclude_repo=dmd2-animation_pt2,landxcape.github.io,landxcape,django-learn-2020)
 
 ****
 
-![Purna's github stats](https://github-readme-stats-three-gray-71.vercel.app/api?username=landxcape&show_icons=true&theme=radical)
+![Purna's github stats](https://github-readme-stats-git-master-landxcapes-projects.vercel.app/api?username=landxcape&show_icons=true&theme=radical)
 
 ****
