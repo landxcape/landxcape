@@ -2,7 +2,7 @@
 
 ### 🌱 Always learning, expanding my knowledge  👨‍💻
 
-Currently focusing on Mobile App Development with Flutter.
+Currently focusing on Mobile App Development with Kotlin and Compose along with Flutter.
 
 ****
 
