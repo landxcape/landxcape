@@ -1,59 +1,58 @@
-Purna Kalyan Shakya
+# Purna Kalyan Shakya
+**Senior Mobile Application Developer | Flutter Specialist**
 
-Senior Mobile Application Developer specializing in Flutter.
+I build reusable libraries and internal tooling with a strict focus on application architecture, performance, native integration, and real-time systems. Most production work resides in private repositories. The projects listed below represent engineering solutions developed outside of client environments.
 
-I build reusable libraries and internal tooling with a focus on application architecture, performance, native integration, and real-time systems. Most production work is in private repositories, while the projects here represent the engineering problems I’ve solved outside of client work.
+---
 
-Architecture
+## Architecture
 
-clean_feature_arch
+### [clean_feature_arch](./clean_feature_arch)
+CLI tool for generating feature-based Flutter projects following a strict Feature-First Clean Architecture standard.
+* Automated project scaffolding
+* Enforced static analysis
+* Architecture boundary validation
 
-CLI for generating feature-based Flutter projects following my Feature First Clean Architecture standard.
+### [Flutter Architecture Standard](./flutter-architecture-standard)
+Comprehensive documentation defining the architectural rules, dependency boundaries, and structural standards used across production codebases.
 
-* Project scaffolding
-* Static analysis
-* Architecture validation
+---
 
-Flutter Architecture Standard
+## Performance
 
-Documentation describing the architectural rules, dependency boundaries, and project structure used across my Flutter projects.
+### [isolate_runner_mixin](https://pub.dev/packages/isolate_runner_mixin)
+Utility package for offloading CPU-intensive tasks to background isolates, ensuring the main UI thread remains completely responsive.
 
-Performance
+### [animated_marker](./animated_marker)
+Highly optimized map markers for Flutter applications, featuring smooth position and scale interpolation during coordinate updates.
 
-isolate_runner_mixin
+### [scroll_texts_widget](https://pub.dev/packages/scroll_texts_widget)
+Production-grade scrolling text widget that bypasses the traditional widget tree. It renders text strings directly to the canvas, ensuring consistent performance even when processing long strings.
 
-Utilities for executing CPU-intensive tasks in background isolates while keeping the UI thread responsive.
+---
 
-animated_marker
+## Native Integration
 
-Animated map markers for Flutter applications with smooth position and scale interpolation.
+### [biometric_secure_vault](./biometric_secure_vault)
+Secure hardware-backed credential storage protected directly by native device biometrics.
 
-scroll_texts_widget
+### [ffr_crypto](./ffr_crypto)
+Experimental Flutter package executing cryptographic operations via Rust through Dart FFI. Developed as a technical exploration of low-level FFI mechanics and Rust integration.
 
-A scrolling text widget designed for production use. It renders text directly to the canvas instead of rebuilding widget trees, allowing performance to remain consistent even with long strings.
+---
 
-Native Integration
+## Systems & Simulations
 
-biometric_secure_vault
+### [nbody_sim_core](./nbody_sim_core)
+Framework-independent N-body simulation engine engineered entirely in pure Dart.
 
-Secure credential storage protected by device biometrics.
+### [nbody_sim_flutter](./nbody_sim_flutter)
+Flutter-based rendering and visualization layer built on top of `nbody_sim_core`. This same simulation engine powers my web portfolio.
 
-ffr_crypto
+---
 
-Experimental Flutter package using Rust through Dart FFI for cryptographic operations. Built as a learning project while exploring Rust and FFI.
+## Technical Links
 
-Other Projects
-
-nbody_sim_core
-
-A framework-independent N-body simulation engine written in Dart.
-
-nbody_sim_flutter
-
-Flutter visualization built on top of nbody_sim_core. The same engine powers my portfolio website.
-
-Find Me
-
-* Portfolio: https://shakyapurna.com.np
-* Pub.dev: https://pub.dev/publishers/shakyapurna.com.np/packages
-* LinkedIn: https://www.linkedin.com/in/purnashakya
+* **Portfolio:** [shakyapurna.com.np](https://shakyapurna.com.np)
+* **Pub.dev:** [Verified Packages](https://pub.dev/publishers/shakyapurna.com.np/packages)
+* **LinkedIn:** [purnashakya](https://www.linkedin.com/in/purnashakya)
