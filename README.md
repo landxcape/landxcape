@@ -1,44 +1,64 @@
-## Hi there, I'm Purna Kalyan Shakya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Purna Kalyan Shakya
 
-### 🌱 Always learning and expanding my knowledge 👨‍💻
+Senior Mobile Application Developer specializing in Flutter.
 
-Currently focused on mobile app development with Kotlin, Jetpack Compose, and Flutter.
+I build reusable libraries and internal tooling with a focus on application architecture, performance, native integration, and real-time systems. Most production work is in private repositories, while the projects here represent the engineering problems I've solved outside of client work.
 
----
+## Architecture
 
-### Languages and frameworks I'm familiar with :page_with_curl:
+Tools and libraries that help keep Flutter projects consistent and maintainable.
 
-<img align="left" alt="Flutter" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Django" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Arduino" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+### clean_feature_arch
 
-<br />
-<br />
+CLI for generating feature-based Flutter projects following my Feature First Clean Architecture standard.
 
-### Tools I use :computer:
+- Project scaffolding
+- Static analysis
+- Architecture validation
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Raspberry Pi" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-<!-- <img align="left" alt="Azure" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" /> -->
-<!-- <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> -->
+### Flutter Architecture Standard
 
-<br />
+Documentation describing the architectural rules, dependency boundaries, and project structure used across my Flutter projects.
 
----
+## Performance
 
-### Find me elsewhere :milky_way:
+Libraries focused on reducing unnecessary work and keeping UI rendering responsive.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-purnashakya-0e76a8?style=flat-square&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/purnashakya/)](https://www.linkedin.com/in/purnashakya/)  [![Facebook Badge](https://img.shields.io/badge/Facebook-landxcape09-3b5998?style=flat-square&logo=Facebook&logoColor=3b5998&link=https://www.facebook.com/landxcape09)](https://www.facebook.com/landxcape09)  [![Instagram Badge](https://img.shields.io/badge/Instagram-landxcape09-red?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/landxcape09/)](https://www.instagram.com/landxcape09/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-landxcape09@gmail.com-BB001B?style=flat-square&logo=Gmail&logoColor=BB001B&link=mailto:landxcape09@gmail.com)](mailto:landxcape09@gmail.com)
+### isolate_runner_mixin
 
----
+Utilities for executing CPU-intensive tasks in background isolates while keeping the UI thread responsive.
 
-![Top Langs](https://github-readme-stats-git-master-landxcapes-projects.vercel.app/api/top-langs/?username=landxcape&theme=radical&hide=html&exclude_repo=dmd2-animation_pt2,landxcape.github.io,landxcape,django-learn-2020)
+### scroll_texts_widget
 
----
+A scrolling text widget designed for production use. It renders text directly to the canvas instead of rebuilding widget trees, allowing performance to remain consistent even with long strings.
 
-![Purna's github stats](https://github-readme-stats-git-master-landxcapes-projects.vercel.app/api?username=landxcape&show_icons=true&theme=radical)
+### animated_marker
+
+Animated map markers for Flutter applications with smooth position and scale interpolation.
+
+## Native Integration
+
+Libraries that bridge Flutter with lower-level platform capabilities.
+
+### biometric_secure_vault
+
+Secure credential storage protected by device biometrics.
+
+### ffr_crypto
+
+Experimental Flutter package using Rust through Dart FFI for cryptographic operations. Built as a learning project while exploring Rust and FFI.
+
+## Other Projects
+
+### nbody_sim_core
+
+A framework-independent N-body simulation engine written in Dart.
+
+### nbody_sim_flutter
+
+Flutter visualization built on top of `nbody_sim_core`. The same engine powers my portfolio website.
+
+## Links
+
+- Portfolio: https://shakyapurna.com.np
+- Pub.dev: https://pub.dev/publishers/shakyapurna.com.np/packages
