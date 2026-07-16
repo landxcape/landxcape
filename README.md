@@ -13,6 +13,9 @@ CLI tool for generating feature-based Flutter projects following a Feature-First
 * Static analysis
 * Architecture validation
 
+### [repository_kit](https://github.com/landxcape/repository_kit)
+Repository toolkit for implementing offline-first workflows in Flutter applications.
+
 ### [Flutter Architecture Standard](https://github.com/landxcape/clean_feature_arch/blob/main/doc/flutter_architecture.md)
 Documentation defining the architectural rules, dependency boundaries, and project structure used across my Flutter projects.
 
